@@ -4,7 +4,7 @@
 [![code style equimper](https://img.shields.io/badge/code%20style-equimper-blue.svg?style=flat-square)](https://github.com/EQuimper/eslint-config-equimper)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> A React Native with Expo, Redux, React Navigation, Styled Components for PhRepo Application.
+> A React Native with Expo, Redux, React Navigation, Styled Components for PhRepo Application/ Sokoban.
 
 <img alt="React Native Boilerplate" src="assets/images/demo.png">
 
@@ -22,11 +22,11 @@
 ## Getting Started
 Clone this repository
 ```
-$ git clone git@github.com:/react-native-boilerplate.git new-project
+
 ```
-Install node modules, [Yarn](https://yarnpkg.com/en/) is highly recommended.
+Install node modules, 
 ```
-$ yarn
+$ npm install
 ```
 Open and start project using [Expo XDE](https://expo.io/tools) or use the [CLI](https://github.com/expo/exp) :
 ```
