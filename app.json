@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "sokoban",
+    "description": "A React Native Application for physical repository / sokoban",
+    "slug": "sokoban",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "version": "1.0.5",
+    "orientation": "default",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "loading": {
+      "icon": "./assets/icons/loading.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.agungsedayu.sokoban"
+    },
+    "android": {
+      "package": "com.agungsedayu.sokoban"
+    }
+  }
+}
