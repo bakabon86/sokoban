@@ -6,11 +6,11 @@
 
 > A React Native with Expo, Redux, React Navigation, Styled Components for PhRepo Application/ Sokoban.
 
-<img alt="React Native Boilerplate" src="assets/images/demo.png">
+<img alt="Sokoban" src="assets/images/app.png">
 
 ## Demo
 
-- Run with Expo: [React Native Boilerplate](https://expo.io/@/react-native-boilerplate)
+- Run with Expo: [Sokoban](https://expo.io/@bakabon86/sokoban)
 
 ## Technologies
 - [React Native (Expo)](https://docs.expo.io/versions/v18.0.0/index.html)
@@ -22,7 +22,7 @@
 ## Getting Started
 Clone this repository
 ```
-
+$ git clone https://github.com/bakabon86/sokoban
 ```
 Install node modules, 
 ```
